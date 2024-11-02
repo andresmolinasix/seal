@@ -1,0 +1,37 @@
+{
+    "pregunta": [
+        "¿Cuál es la capital de Colombia?",
+        "¿Qué es Rust?",
+        "¿Cuál es el océano más grande del mundo?",
+        "¿Quién pintó la Mona Lisa?",
+        "¿Qué es la fotosíntesis?"
+    ],
+    "opciona": [
+        "Cali",
+        "Un lenguaje de programación",
+        "Océano Atlántico",
+        "Pablo Picasso",
+        "Un proceso de plantas"
+    ],
+    "opcionb": [
+        "Bogotá",
+        "Un compilador",
+        "Océano Índico",
+        "Leonardo da Vinci",
+        "Un proceso de animales"
+    ],
+    "opcionc": [
+        "Medellín",
+        "Un sistema operativo",
+        "Océano Pacífico",
+        "Vincent van Gogh",
+        "Un tipo de arte"
+    ],
+    "opciond": [
+        "Cartagena",
+        "Una biblioteca",
+        "Océano Ártico",
+        "Claude Monet",
+        "Un tipo de energía"
+    ]
+}
